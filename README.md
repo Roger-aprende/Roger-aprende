@@ -1,4 +1,10 @@
-### Hi there 👋
+<div align="center">
+
+### Hola, soy <a href="#">Roger Salazar</a> 👋
+<i><b>¡¡y Hacer ideas realidad es mi pasion!!</b></i> 
+
+</div>
+
 
 <!--
 **Roger-aprende/Roger-aprende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
