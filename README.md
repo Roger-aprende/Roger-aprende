@@ -15,27 +15,6 @@
 
 </div>
 
-<main display="grid">
-<div background-color="red" width="200" heigth="200px"></div>
-</main>
-
-## Proyectos Resaltantes
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Reloj</h3>
-<div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
-</p>
-
-
 
 <!--
 **Roger-aprende/Roger-aprende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
