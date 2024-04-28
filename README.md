@@ -1,4 +1,4 @@
-<img align='right' src="https://i.pinimg.com/564x/37/3c/c8/373cc8a162d00cd152e05c055eee7016.jpg" width="230">
+<img align='right' src="https://i.pinimg.com/564x/37/3c/c8/373cc8a162d00cd152e05c055eee7016.jpg" width="200">
 
  ### Hola, soy <a href="#">Roger Salazar</a>👋
  
