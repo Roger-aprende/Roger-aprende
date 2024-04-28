@@ -1,19 +1,23 @@
-<div align="center">
+<div align="left" display="flex">
 
-### Hola, soy <a href="#">Roger Salazar</a> 👋
-<i><b>¡¡ y hacer ideas realidad es mi pasion!!</b></i> 
+ <h3>Hola, soy <a href="#">Roger Salazar</a>👋</h3>
+       
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=20&lines=¡¡Y+hacer+ideas+realidad+es+mi+pasion!!...;Soy+desarrollador+Front+end+💻;)](https://git.io/typing-svg)
+
+
+ <div align="right">
+    <img src="https://i.pinimg.com/564x/37/3c/c8/373cc8a162d00cd152e05c055eee7016.jpg" width="230">
+ </div>
 </div>
-
-</br>
-<div align="center" margin-bottom=""10px>
-  🙌 Habilidades 🙌
+     
+       
+ <div align="left" margin-bottom=""10px>
+ 🙌 Habilidades 🙌
   
-  
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-</div>
+   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+ </div>
 
 
 <!--
