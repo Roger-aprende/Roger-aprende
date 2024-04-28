@@ -2,7 +2,7 @@
 
  ### Hola, soy <a href="#">Roger Salazar</a>👋
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=20&lines=¡¡Y+hacer+ideas+realidad+es+mi+pasion!!...;Soy+desarrollador+Front+end+💻+!;)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=18&lines=¡¡Y+hacer+ideas+realidad+es+mi+pasion!!...;Soy+desarrollador+Front+end+💻+!;)](https://git.io/typing-svg)
  
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,figma)](https://skillicons.dev)
 
